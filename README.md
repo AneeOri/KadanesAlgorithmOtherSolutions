@@ -1,0 +1,2 @@
+# KadanesAlgorithmOtherSolutions
+Created with CodeSandbox
